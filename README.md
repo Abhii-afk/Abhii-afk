@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I am Abhinav Gaur, a B.Tech CSE student passionate about technology. 🎓
 I am proficient in C++ and actively sharpening my DSA skills to become a stronger problem solver.
 
@@ -23,7 +23,7 @@ Always curious, always learning — because falling behind is simply not an opti
 - Improving project scalability  
 - Enhancing user experience and project structure  
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Generative AI  
 - Agentic AI workflows  
 - Open Source contribution practices  
