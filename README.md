@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building projects with Generative AI, AI Agents & modern technologies<br><br>👯 I’m looking to collaborate on<br>Open Source projects, AI tools, hackathons & innovative startup ideas<br><br>🤝 I’m looking to help with<br>Debugging, scaling projects, fixing issues & improving user experiences<br><br>🌱 I’m currently learning<br>Generative AI, Agentic AI workflows & Open Source contribution<br><br>🎓 I’m a 2nd-year B.Tech CSE student proficient in C++ and focused on DSA<br><br>⚡ Fun fact<br>I hate losing
+🎓 I'm **Abhinav Gaur**, a B.Tech CSE student passionate about technology and always pushing to stay ahead of the curve.
+
+🔭 I'm currently working on exploring **Generative AI** and **Agentic AI**, while sharpening my **DSA** skills in **C++**.
+
+🌱 I'm currently learning **Generative AI**, **Agentic AI workflows**, and contributing to **Open Source** projects.
+
+👯 I'm looking to collaborate on **Open Source projects**, AI tools, and innovative ideas.
+
+💬 Ask me about **C++, DSA, Generative AI, Agentic AI, or anything tech.**
+
+⚡ Fun fact: I hate losing.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UchV74BjN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-gaur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavgaur095@gmail.com) 
