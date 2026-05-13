@@ -1,26 +1,5 @@
 # 💫 About Me:
-I am Abhinav Gaur, a 2nd-year B.Tech CSE student proficient in C++ and currently focused on Data Structures & Algorithms while exploring Open Source development. I am also learning Generative AI and Agentic AI, with a strong passion for technology and continuous learning to stay ahead in the evolving tech world.
-
-## 🚀 Current Focus
-- Building projects with Generative AI, AI Agents & modern technologies  
-- Practicing DSA in C++  
-- Exploring Open Source contributions and collaborative development  
-
-## 🤝 Looking to Collaborate On
-- Open Source projects  
-- AI-based applications and tools  
-- Hackathons and innovative tech ideas  
-
-## 🛠️ Looking to Help With
-- Debugging and fixing issues  
-- Improving project scalability  
-- Enhancing user experience and project structure  
-
-## 🌱 Currently Learning
-- Generative AI  
-- Agentic AI workflows  
-- Open Source contribution 
-
+🔭 I’m currently working on<br>Building projects with Generative AI, AI Agents & modern technologies<br><br>👯 I’m looking to collaborate on<br>Open Source projects, AI tools, hackathons & innovative startup ideas<br><br>🤝 I’m looking to help with<br>Debugging, scaling projects, fixing issues & improving user experiences<br><br>🌱 I’m currently learning<br>Generative AI, Agentic AI workflows & Open Source contribution<br><br>🎓 I’m a 2nd-year B.Tech CSE student proficient in C++ and focused on DSA<br><br>⚡ Fun fact<br>I hate losing
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UchV74BjN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-gaur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavgaur095@gmail.com) 
